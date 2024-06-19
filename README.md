@@ -7,7 +7,7 @@ I'm a developer who handles both frontend and backend development, and works in 
 
 - Currently working as a SSR **FullStack** Developer.
 - I have a good foundation of core programming principles, so I'm not bound to just manipulating a short set of languages.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="c" width="15" height="15"/> I'm currently choosing Flutter for frontend, where the same codebase is shared both for the mobile and web app ports.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="c" width="15" height="15"/> I'm currently choosing Flutter for frontends, which exports apps for Android, web, iOS, and more, from one codebase.
 - All code written here was made by me. (except when "forked" or stated otherwise)
 
 ## Technologies I used recently
